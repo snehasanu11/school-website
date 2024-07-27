@@ -16,6 +16,7 @@ import Faculty from './components/Faculty';
 function App() {
   return (
     <div className="App">
+      <Nav/>
     <Routes>
       <Route path="/Nav" element={<Nav/>}/>
       <Route path="/" element={<Home/>}/>
