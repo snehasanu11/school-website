@@ -5,7 +5,7 @@ import Nav from './Nav';
 const Home = () => {
   return (
     <div>
-      <Nav/>
+    
       <div class="row">
         <div class="container">
         <div class="card text-bg-dark">
